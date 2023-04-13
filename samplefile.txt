@@ -1,1 +1,2 @@
 //this is sample file to check the commit history
+// updated the file first time
